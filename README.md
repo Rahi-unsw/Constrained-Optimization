@@ -1,4 +1,4 @@
-# Constrained-Optimization
+# Constrained-Optimization/BumpEA-ID
 Evolutionary algorithm embedded with bump-hunting for constrained design optimization
 
 Please cite the following papers if you use this algorithm.
