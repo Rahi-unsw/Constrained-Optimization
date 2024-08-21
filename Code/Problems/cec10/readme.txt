@@ -1,0 +1,1 @@
+ [f, g, h] = cec10_cop(x, gn, hn, cfunc_num) is the prototype where x is the population, gn and hn are no. of equality and inequality constrains respectively and cfun_num is the function number between 1 to 18.
